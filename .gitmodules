@@ -1,0 +1,3 @@
+[submodule "monotone_op_net"]
+	path = monotone_op_net
+	url = https://github.com/locuslab/monotone_op_net.git
